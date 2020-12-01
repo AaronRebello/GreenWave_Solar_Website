@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "GreenWave", ".", "{763935FF-F366-4882-8BDB-AC6011EEE139}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58505"
+		Debug.AspNetCompiler.PhysicalPath = "..\GreenWave\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58505\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58505"
+		Release.AspNetCompiler.PhysicalPath = "..\GreenWave\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58505\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58505"
+		SlnRelativePath = "..\GreenWave\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{763935FF-F366-4882-8BDB-AC6011EEE139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{763935FF-F366-4882-8BDB-AC6011EEE139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14CB2447-C205-49C2-8701-818F6D7A4328}
+	EndGlobalSection
+EndGlobal
